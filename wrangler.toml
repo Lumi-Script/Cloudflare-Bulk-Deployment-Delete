@@ -1,4 +1,4 @@
-name = "cfbulkdel"
+name = "cloudflare-bulk-deployment-delete"
 main = "_worker.js"
 compatibility_date = "2024-04-01"
 
